@@ -11,6 +11,9 @@ aux_links:
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
 
+# syang11 debug
+repository: syang11/pennAITech
+
 # -------- below follows from PennLINC (https://pennlinc.github.io/): https://github.com/PennLINC/PennLINC.github.io/blob/main/_config.yml
 permalink: pretty
 
