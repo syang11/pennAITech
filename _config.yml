@@ -1,8 +1,9 @@
-title: Just the Docs Template
+title: Penn Artificial Intelligence and Technology Collaboratory for Healthy Aging: Tech Core
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://syang11.github.io/pennAITech/
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  # Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  PennAITech: https://www.pennaitech.org/
