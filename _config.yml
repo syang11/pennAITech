@@ -1,5 +1,5 @@
-title: 'Penn Artificial Intelligence and Technology Collaboratory for Healthy Aging: Tech Core'
-description: 'Tech ID from literature via text mining & expert curation'
+title: PennAITech core #'Penn Artificial Intelligence and Technology Collaboratory for Healthy Aging: Tech Core'
+description: 'Penn Artificial Intelligence and Technology Collaboratory for Healthy Aging: Tech Core'  #'Tech ID from literature via text mining & expert curation'
 theme: just-the-docs
 
 url: https://syang11.github.io/pennAITech/
@@ -7,3 +7,23 @@ url: https://syang11.github.io/pennAITech/
 aux_links:
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
   PennAITech: https://www.pennaitech.org/
+
+# Makes Aux links open in a new tab. Default is false
+aux_links_new_tab: true
+
+# -------- below follows from PennLINC (https://pennlinc.github.io/): https://github.com/PennLINC/PennLINC.github.io/blob/main/_config.yml
+permalink: pretty
+
+# Footer content
+# appears at the bottom of every page's main content
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2017-2019 Patrick Marsceill. Distributed by an <a href=\"https://https://github.com/syang11/pennAITech/tree/main/LICENSE\">MIT license.</a>"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-github-metadata
+  - jekyll-include-cache
+#  -------
